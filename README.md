@@ -10,7 +10,25 @@ Anaconda3 Jupyter
 
 Project description:
 Dure to duplicate checking of the school's papers is in progress, only part of the screenshots of the papers are uploaded for learning and communication.  
+![test](/image/01.jpg "title")  
 
-![test](/image/01.jpg "title")
+Absract  
+![test](/image/02.jpg "title")  
 
+Model Design  
+![test](/image/03.jpg "title")  
+![test](/image/04.jpg "title")  
+![test](/image/05.jpg "title")  
+![test](/image/06.jpg "title")  
 
+Experimental Result  
+![test](/image/07.jpg "title")  
+![test](/image/08.jpg "title")  
+![test](/image/09.jpg "title")  
+![test](/image/11.jpg "title")  
+
+Front Interface display  
+![test](/image/10.jpg "title")  
+
+Project Plan  
+![test](/image/13.jpg "title")  
