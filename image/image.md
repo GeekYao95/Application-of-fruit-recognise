@@ -1,1 +1,1 @@
-image.md
+This file are pictures.
