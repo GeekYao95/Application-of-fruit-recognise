@@ -7,3 +7,5 @@ An application with LeNet5 training pictures, the training parameters are stored
 Coding environment：
 Python 3.7
 Anaconda3 Jupyter
+
+![test](/init.jpg "title")
