@@ -8,4 +8,6 @@ Coding environment：
 Python 3.7
 Anaconda3 Jupyter
 
-![test](/init.jpg "title")
+Project description:
+Dure to duplicate checking of the school's papers is in progress, only part of the screenshots of the papers are uploaded for learning and communication.
+![test](/image/01.jpg "title")
