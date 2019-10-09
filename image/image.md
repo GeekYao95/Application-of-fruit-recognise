@@ -1,1 +1,1 @@
-This file are pictures.
+This file store readme.md pictures.
